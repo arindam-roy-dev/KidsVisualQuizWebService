@@ -11,9 +11,9 @@
 	"description":"Cartoon Characters and super Heroes",
 	"questionsLimit":10
 	},{
-	"name":"Transportations",
-	"code":"Transportations",
-	"description":"Vehicals and other Transportations",
+	"name":"Transportation",
+	"code":"Transportation",
+	"description":"Vehicals and other Transportation",
 	"questionsLimit":10
 	},{
 	"name":"Trees and Plants",
